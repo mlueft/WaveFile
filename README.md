@@ -1,6 +1,9 @@
 # WaveFile
 A Python class to write wave files.
 
+The class WaveFile extends the class BinaryFile.
+see: https://github.com/mlueft/BinaryFile
+
 ```python
 from WaveFile import WaveFile
 
